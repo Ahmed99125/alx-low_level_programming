@@ -2,7 +2,7 @@
 /**
  * main - main block
  *
- * Description: 'the program's description'
+ * Description: 'main'
  *
  * return: 0
  */
