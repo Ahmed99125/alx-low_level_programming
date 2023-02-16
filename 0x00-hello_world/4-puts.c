@@ -2,7 +2,7 @@
 /**
  * main - main block
  *
- * Description: 'main'
+ * Description: 'this is a description for main'
  *
  * return: 0
  */
