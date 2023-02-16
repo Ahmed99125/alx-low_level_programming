@@ -2,10 +2,7 @@
 
 int main(void) 
 {
-
-/*
- *besmellah
- * */
-	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+/*besmellah*/
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
 }
