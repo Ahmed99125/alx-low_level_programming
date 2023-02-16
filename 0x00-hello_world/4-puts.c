@@ -1,10 +1,7 @@
 #include <stdio.h>
 /**
- * main - main block
- *
- * Description: 'this is a description for main'
- *
- * return: 0
+ *main - Entry point
+ *Return: Always 0 (success)
  */
 int main(void)
 {
