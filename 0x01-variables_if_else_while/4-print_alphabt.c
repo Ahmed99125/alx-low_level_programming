@@ -9,9 +9,8 @@ int main(void)
 
 	while (n--)
 	{
-		if (c == 101 || c == 113)
-			continue;
-		putchar(c++);
+		if (c != 101 && c != 113)
+			putchar(c++);
 	}
 	printf("\n");
 	return (0);
