@@ -13,7 +13,7 @@ int main(void)
 	}
 	n = 26, c = 65;
 
-	while(n--)
+	while (n--)
 	{
 		putchar(c++);
 	}
