@@ -5,14 +5,16 @@
  */
 int main(void)
 {
-	int n = 26;
+	int n = 26,  c = 97;
 
-	for (int c = 97; n--; c++)
+	while (n--)
 	{
-		if (c == 101 || c == 113)
-			continue;
-		putchar(c);
+		if (c != 101 && c != 113)
+		{
+			putchar(c);
+		}
+		c++;
 	}
-	printf("\n");
+	putchar('\n');
 	return (0);
 }
