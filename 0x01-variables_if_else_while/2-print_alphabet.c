@@ -10,7 +10,6 @@ int main(void)
 	while (n--)
 	{
 		putchar(c++);
-		printf("\n");
 	}
 	return (0);
 }
