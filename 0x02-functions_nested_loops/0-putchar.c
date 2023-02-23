@@ -6,8 +6,9 @@
 int main(void)
 {
 	char *arr = "_putchar";
+	int i;
 
-	for (int i = 0; i < sizeof(arr); i++)
+	for (i = 0; i < (int) sizeof(arr); i++)
 	{
 		putchar(arr[i]);
 	}
