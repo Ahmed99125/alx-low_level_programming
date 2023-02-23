@@ -1,11 +1,15 @@
 #include "main.h"
 
 /**
- * main - entry point
+ * print_alphabet_x10 - entry point
  * Return: always 0
  */
-int main(void)
+void print_alphabet_x10(void)
 {
-	print_alphabet();
-	return (0);
+	int i = 10;
+
+	while (i--)
+	{
+		print_alphabet();
+	}
 }
