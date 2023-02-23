@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - test the func
+ * main - causes an infinite loop
  * Return: 0
  */
 
