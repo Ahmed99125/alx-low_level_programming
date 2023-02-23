@@ -10,8 +10,7 @@ void print_numbers(void)
 
 	while (n < 58)
 	{
-		putchar(n);
+		_putchar(n);
 	}
-	putchar('\n');
-	return;
+	_putchar('\n');
 }
