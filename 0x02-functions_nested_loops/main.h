@@ -1,3 +1,4 @@
+#include <stdio.h>
 void print_alphabet(void)
 {
 	int n = 26, c = 97;
