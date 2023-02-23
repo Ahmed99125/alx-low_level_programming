@@ -3,7 +3,7 @@
 /**
  * print_sign - entry point
  * @n - the parameter to be checked
- * Return: 1 if +, 0 if not + or - and -1 if -
+ * Return: 1 for positive and -1 for negative
  */
 int print_sign(int n)
 {
