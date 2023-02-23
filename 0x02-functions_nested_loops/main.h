@@ -4,7 +4,8 @@ void print_alphabet(void)
 
 	while (n--)
 	{
-		putchar(c++);
+		putchar(c);
+		c++;
 	}
 	putchar('\n');
 }
