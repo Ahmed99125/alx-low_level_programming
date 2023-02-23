@@ -2,8 +2,8 @@
 
 /**
  * print_sign - entry point
- * @n - the parameter
- * Return: 1 if +, 0 if 0 and -1 if -
+ * @n - the parameter to be checked
+ * Return: 1 if +, 0 if not + or - and -1 if -
  */
 int print_sign(int n)
 {
